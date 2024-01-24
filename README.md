@@ -1,32 +1,20 @@
-<img src="" alt="my banner">
+<img src="https://github.com/sajeedali/sajeedali/assets/110982067/4ec04638-339d-4a48-875c-699ac6ade1a3" alt="my banner">
 
 
-
-<h1 align="center"> 
-  Hello
-  <img src="https://github.com/skfawad911/skfawad911/blob/main/icons/wave.gif" 
-         alt="Waving hand animated gif"         
-
-
-
-         width="40"/>,
-   I'm <b>Sajeed Ali Shaikh</b>
-</h1> 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=2000&pause=800&color=50C878&center=true&vCenter=true&height=75&width=1300px&lines=Welcome+To+My+Github;I'm+an+aspiring+Web+Developer🌐💻;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=2000&pause=800&color=FFF&center=true&vCenter=true&height=75&width=1300px&lines=Aspiring+Web+Developer🌐💻;Learning+enthusiast📖;)
 
 # <b>About Me:-</b>
 <p>
-<br>🚀 Welcome to my coding playground! <br>
-🖥️ Aspiring cloud explorer and code artisan on a journey to turn caffeine into code. My tech toolkit includes Python, Go Lang, Java, SQL,etc. and I wield them with the precision of a keyboard wizard. <br>
-🧙‍♂️ Dive into my repositories for a glimpse of my AWS-powered creations and innovative tech experiments.<br>
-🌟 Always up for a coding adventure and collaboration! <br>
-🚀 Let's join forces to create, innovate, and make the digital world a bit more exciting.<br> 🚧 Beware: may spontaneously break into code poetry when inspired. 📜<br>
+<br>🚀 Aspiring web developer proficient in HTML, CSS, JS, and ReactJS, dedicated to crafting seamless and user-friendly web experiences.<br><br>
+    🌟 Explore my repositories to discover a variety of web creations and innovative tech experiments, showcasing my passion for pushing the boundaries of what's possible in the digital realm.<br><br>
+    🧙‍♂️ Always ready for coding adventures and collaborations, I approach challenges with enthusiasm and a problem-solving mindset, fostering a dynamic and creative coding environment.<br><br>
+    🌐 Stay updated with the latest trends in web development, incorporating industry best practices into projects for optimal results.<br><br>
+    🚀 Let's embark on a journey to make the digital world more exciting! Connect with me to exchange ideas, unlock efficient coding tips, and jointly explore the ever-evolving landscape of technology.📜<br>
 
-Connect with me to unlock the secrets of efficient coding and explore the ever-expanding universe of technology together! 🚀✨<br>
+Get in touch for idea exchange, discover efficient coding tips, and embark on a collaborative exploration of the dynamic world of technology.✨<br>
 </p>
 
-## <b>Web Technologies and Frameworks I use:</b>
+# <b>Web Technologies and Frameworks I use:</b>
 
 
 <p align="left">
@@ -60,7 +48,7 @@ Connect with me to unlock the secrets of efficient coding and explore the ever-e
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="Git" src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23f05032" height="50"/>
   </a>
-
+</p>
 
 
 # <b>Reach me at 👇:-</b>
@@ -68,33 +56,32 @@ Connect with me to unlock the secrets of efficient coding and explore the ever-e
 <!-- Github -->
 <a 
     target="_blank" 
-    href="https://github.com/skfawad911">
+    href="https://github.com/sajeedali">
     <img
-        src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" height="40">
-    </img>    
+        src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
+  <br>
 <!-- LinkedIn -->
 <a 
     target="_blank"
-    href="www.linkedin.com/in/fawad-shaikh-278550226">
+    href="https://www.linkedin.com/in/sajeed-ali-shaikh-664707171">
     <img
-        src="https://img.shields.io/badge/Linkedin-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" height="40">
-    </img>
+        src="https://img.shields.io/badge/Linkedin-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" height="40" />
 </a>
+  <br>
 <!-- GMail -->
 <a 
     target="_blank" 
-    href="mailto:skfawad911@gmail.com">
+    href="mailto:saj33d739@gmail.com">
     <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="40">
-    </img>    
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="40" />
 </a>
+  <br>
 <!-- Twitter -->
 <a 
     target="_blank" 
-    href="https://twitter.com/FawadSh76392836">
+    href="https://twitter.com/saj33dali">
     <img
-        src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="40">
-    </img>
+        src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="40" />
 </a>
 </p>
