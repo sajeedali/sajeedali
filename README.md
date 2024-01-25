@@ -1,7 +1,7 @@
 <img src="https://github.com/sajeedali/sajeedali/assets/110982067/4ec04638-339d-4a48-875c-699ac6ade1a3" alt="my banner">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=2500&pause=700&color=FFF&center=true&vCenter=true&height=75&width=1300px&lines=Aspiring+Web+Developer🌐💻;Learning+enthusiast📖;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=2500&pause=500&color=FFF&center=true&vCenter=true&height=75&width=1300px&lines=Aspiring+Web+Developer🌐💻;Learning+enthusiast📖;)
 
 # <b>About Me:-</b>
 <p>
