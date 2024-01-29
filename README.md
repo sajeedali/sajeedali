@@ -19,69 +19,55 @@ Get in touch for idea exchange, discover efficient coding tips, and embark on a 
 
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-   <img alt="HTML" src="https://img.shields.io/badge/html-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23E69138" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
   </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-      <img alt="CSS" src="https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%232986CC" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" />
   </a>
     <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=%236a329fF" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" />
   </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img alt="Scss" src="https://img.shields.io/badge/scss-%23000000.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
   </a>
    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img alt="Php" src="https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=%23777bb4" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img alt="Mysql" src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img alt="C#" src="https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=%23512BD4" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23f05032" height="50"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" />
   </a>
 </p>
 
 
 # <b>Reach me at 👇:-</b>
-<p>
-<!-- Github -->
-<a 
-    target="_blank" 
-    href="https://github.com/sajeedali">
-    <img
-        src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" height="40" />
-</a>
-  <br>
-<!-- LinkedIn -->
-<a 
-    target="_blank"
-    href="https://www.linkedin.com/in/sajeed-ali-shaikh-664707171">
-    <img
-        src="https://img.shields.io/badge/Linkedin-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" height="40" />
-</a>
-  <br>
-<!-- GMail -->
-<a 
-    target="_blank" 
-    href="mailto:saj33d739@gmail.com">
-    <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="40" />
-</a>
-  <br>
-<!-- Twitter -->
-<a 
-    target="_blank" 
-    href="https://twitter.com/saj33dali">
-    <img
-        src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="40" />
-</a>
+<p align="left">
+    <a href="https://www.github.com/sajeedali" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+    </a> 
+    <a href="https://www.linkedin.com/in/sajeed-ali-shaikh-664707171" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+</a> 
+    <a href="https://www.twitter.com/saj33dali" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" />
+    </a>
 </p>
+
+
+# <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/danielcranney">
+<img src="https://github-readme-stats.vercel.app/api?username=sajeedali&show_icons=true&hide=contribs&count_private=true&title_color=028A0F&text_color=ffffff&icon_color=028A0F&bg_color=000000&hide_border=true&show_icons=true" alt="sajeedali's GitHub stats" />
+</a>
+
