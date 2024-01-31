@@ -67,7 +67,7 @@ Get in touch for idea exchange, discover efficient coding tips, and embark on a 
 
 # <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/danielcranney">
+<a href="http://www.github.com/sajeedali">
 <img src="https://github-readme-stats.vercel.app/api?username=sajeedali&show_icons=true&hide=contribs&count_private=true&title_color=028A0F&text_color=ffffff&icon_color=028A0F&bg_color=000000&hide_border=true&show_icons=true" alt="sajeedali's GitHub stats" />
 </a>
 
