@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">🚀 Aspiring web developer proficient in HTML, CSS, JS, and ReactJS, dedicated to crafting seamless and user-friendly web experiences.<br><br>🌟 Explore my repositories to discover a variety of web creations and innovative tech experiments, showcasing my passion for pushing the boundaries of what's possible in the digital realm.<br><br>🧙‍♂️ Always ready for coding adventures and collaborations, I approach challenges with enthusiasm and a problem-solving mindset, fostering a dynamic and creative coding environment.<br><br>🌐 Stay updated with the latest trends in web development, incorporating industry best practices into projects for optimal results.<br><br>🚀 Let's embark on a journey to make the digital world more exciting! Connect with me to exchange ideas, unlock efficient coding tips, and jointly explore the ever-evolving landscape of technology.📜<br><br>Get in touch for idea exchange, discover efficient coding tips, and embark on a collaborative exploration of the dynamic world of technology.✨</p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyM3E5b3Zsdm12dDZjNDBndjA1NXQ0MzZtMG96NHYxZWJibnM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PKfEGOsSn0x6GFNj8K/giphy.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyM3E5b3Zsdm12dDZjNDBndjA1NXQ0MzZtMG96NHYxZWJibnM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PKfEGOsSn0x6GFNj8K/giphy.gif"  />
+<p align="left">🚀 Aspiring web developer proficient in HTML, CSS, JS, and ReactJS, dedicated to crafting seamless and user-friendly web experiences.<br><br>🌟 Explore my repositories to discover a variety of web creations and innovative tech experiments, showcasing my passion for pushing the boundaries of what's possible in the digital realm.<br><br>🧙‍♂️ Always ready for coding adventures and collaborations, I approach challenges with enthusiasm and a problem-solving mindset, fostering a dynamic and creative coding environment.<br><br>🌐 Stay updated with the latest trends in web development, incorporating industry best practices into projects for optimal results.<br><br>🚀 Let's embark on a journey to make the digital world more exciting! Connect with me to exchange ideas, unlock efficient coding tips, and jointly explore the ever-evolving landscape of technology.📜<br><br>Get in touch for idea exchange, discover efficient coding tips, and embark on a collaborative exploration of the dynamic world of technology.✨</p>
 
 ###
 
